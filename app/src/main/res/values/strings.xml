@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android App -Bill Zerega</string>
+
+    <string name="greeting">Hello, add your name</string>
+    <string name="name">Enter name here</string>
+    <string name="btn_confirm">Submit</string>
+    <string name="btn_start">Starting the app</string>
+    <string name="toast">simpleClick() active</string>
+    <string name="toast2"> Starting Clicked!</string>
+    <string name="btn_pass_params">Passing parameters</string>
+</resources>
